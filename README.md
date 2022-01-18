@@ -11,9 +11,9 @@
         <td><img src="assets/game_dev.gif" width="352"/></td>
     </tr>
     <tr>
-        <td style="text-align: center; font-weight: bold;">Aerospace Engineering</td>
-        <td style="text-align: center; font-weight: bold;">Software Development</td>
-        <td style="text-align: center; font-weight: bold;">Game Development</td>
+        <td><center><b>Aerospace Engineering</b></center></td>
+        <td><center><b>Software Development</b></center></td>
+        <td><center><b>Game Development</b></center></td>
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: top;">
