@@ -16,21 +16,27 @@
         <td><p align="center"><b>Game Development</b></p></td>
     </tr>
     <tr>
-        <td style="text-align: center; vertical-align: top;">
+        <td>
+            <p align="center">
             Aeronautics<br>
             Avionics<br>
             Space Science<br>
             Autonomous Robotics
+            </p>
         </td>
-        <td style="text-align: center; vertical-align: top;">
+        <td>
+            <p align="center">
             <img src="assets/cpp.png" style="height: 1em;"/>
             Embedded Systems<br>
             Electronics
+            </p>
         </td>
-        <td style="text-align: center; vertical-align: top;">
+        <td>
+            <p align="center">
             <img src="assets/haxe.png" style="height: 1em;"/> Haxe<br/>
             <img src="assets/defold.png" style="height: 1em;"/> Defold<br/>
             <img src="assets/javascript.png" style="height: 1em;"/> Javascript<br/>
+            </p>
         </td>
     </tr>
 </table>
