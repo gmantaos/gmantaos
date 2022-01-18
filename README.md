@@ -18,24 +18,23 @@
     <tr>
         <td>
             <p align="center">
-            Aeronautics<br>
-            Avionics<br>
-            Space Science<br>
-            Autonomous Robotics
+            <img src="assets/plane.png" style="height: 1.2em;"/> Aeronautics<br>
+            <img src="assets/gauge.png" style="height: 1.2em;"/> Avionics<br>
+            <img src="assets/space.png" style="height: 1.2em;"/> Space Science<br>
+            <img src="assets/drone.png" style="height: 1.2em;"/> Autonomous Robotics
             </p>
         </td>
         <td>
             <p align="center">
-            <img src="assets/cpp.png" style="height: 1em;"/>
-            Embedded Systems<br>
-            Electronics
+            <img src="assets/cpp.png" style="height: 1.2em;"/> Embedded Systems<br>
+            <img src="assets/chip.png" style="height: 1.2em;"/> Electronics
             </p>
         </td>
         <td>
             <p align="center">
-            <img src="assets/haxe.png" style="height: 1em;"/> Haxe<br/>
-            <img src="assets/defold.png" style="height: 1em;"/> Defold<br/>
-            <img src="assets/javascript.png" style="height: 1em;"/> Javascript<br/>
+            <img src="assets/haxe.png" style="height: 1.2em;"/> Haxe<br/>
+            <img src="assets/defold.png" style="height: 1.2em;"/> Defold<br/>
+            <img src="assets/javascript.png" style="height: 1.2em;"/> Javascript<br/>
             </p>
         </td>
     </tr>
